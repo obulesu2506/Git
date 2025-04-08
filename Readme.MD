@@ -1,14 +1,24 @@
 # Dosa
 
-* Dosa Flour
+* Dosa Batter
 * Karam
 * Oil
 
 
 # Egg Dosa
 
-* Dosa Flour
+* Dosa Batter
 * 1 Egg
 * oil
 * Karam
+
+# Special Dosa
+
+* Dosa Batter
+* Bombai Chutney
+* podi
+* karam
+* oil
+* onions
+
 
